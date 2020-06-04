@@ -15,7 +15,7 @@
 {#await auth()}
 
 <!-- Show a waiting message/page/animation here -->
-<hi>Verifying user...</hi>
+<h1>Verifying user...</h1>
 
 <!-- Pass the user to all nested pages in the project -->
 {:then user}
