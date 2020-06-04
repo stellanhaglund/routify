@@ -1,0 +1,2 @@
+import{S as s,i as t,s as a,b as e,e as o,t as r,z as c,g as h,h as l,c as n,d as i,f as d,k as p,l as u,n as f}from"./main-43f19c53.js";function m(s){let t,a,m;return{c(){t=e(),a=o("h1"),m=r("test"),this.h()},l(s){c('[data-svelte="svelte-oh6yg0"]',document.head).forEach(h),t=l(s),a=n(s,"H1",{});var e=i(a);m=d(e,"test"),e.forEach(h),this.h()},h(){document.title="Sapper project template"},m(s,e){p(s,t,e),p(s,a,e),u(a,m)},p:f,i:f,o:f,d(s){s&&h(t),s&&h(a)}}}export default class extends s{constructor(s){super(),t(this,s,null,m,a,{})}}
+//# sourceMappingURL=index-898cd09f.js.map
